@@ -53,7 +53,7 @@ $ go run main.go
 Reach out to me at one of the following places!
 
 - Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="https://twitter.com/Sraveen_shane" target="_blank">`@SRaveen_shane`</a>
+- Twitter at <a href="https://twitter.com/Sraveen_shane" target="_blank">`@Sraveen_shane`</a>
 - Linkedin at <a href="https://www.linkedin.com/in/sraveen-virat-08b73115b/" target="_blank">`@sraveen-virat`</a>
 
 
